@@ -6,7 +6,7 @@ The Banking GUI Project is a system designed to allow the manager to create user
 The Banking GUI Project is designed to manage customer's bank accounts using Java and JavaFX. It allows different user roles to interact with the system in various ways:
 
 - **Manager**: Can create and delete customers (Username: admin, Password: admin).
-- **Customers**: Can withdraw, deposit and make a purchase with a fee depending on their level.
+- **Customers**: Can withdraw, deposit and make a purchase of more than $50 with a fee depending on their level.
 
 
 ### Login Interface
@@ -32,11 +32,9 @@ The Banking GUI Project is designed to manage customer's bank accounts using Jav
 
 
 - **Level System**:
-  - Members that have a membership for 1 or less years don’t get a discount.
-  - Members that have a membership for more than 1 year but less than 5 get a 10% discount.
-  - Members that have a membership for more than 10 years get a 50% discount.
-  - Regular customers that are over the age of 65 get a 10% discount.
-
+  - Customers with less than $10,000 in their account have an account level of silver which applies a fee of $20 on every purchase.
+  - Customers with more than $10,000 but less than $20,000 in their account have an account level of gold which applies a fee of $10 on every purchase.
+  - Customers with more than $20,000 in their account have an account level of platinum which doesn't have a fee on all purchases.
 
 ## Technologies Used
 
