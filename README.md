@@ -13,16 +13,21 @@ The Banking GUI Project is designed to manage customer's bank accounts using Jav
 
 ![image](https://github.com/user-attachments/assets/409718e2-37cf-4107-8cd3-39d757b89ff7)
 
+
+### Customer Management Interface
+
+![image](https://github.com/user-attachments/assets/b3a4715d-8ad4-4922-a8ca-575c1a177d37)
+
 ## Features
 
 - **Customer Account Management**:
   - Create new customer accounts.
   - Delete existing accounts.
 
-### Customer Management Interface
+
+### Customer Account Interface
 
 ![image](https://github.com/user-attachments/assets/d2afd5a8-4ed5-4403-b84a-687d02eec57e)
-
 
 
 
