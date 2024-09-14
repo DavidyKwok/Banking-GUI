@@ -1,0 +1,4 @@
+Level: Silver
+Username: bob
+Password: 123
+Balance: 100.0

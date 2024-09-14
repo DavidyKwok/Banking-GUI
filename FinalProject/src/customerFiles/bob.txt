@@ -1,0 +1,4 @@
+Level: Platinum
+Username: bob
+Password: 123
+Balance: 20000.0
